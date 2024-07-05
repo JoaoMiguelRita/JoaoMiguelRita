@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Fraga 🖐️
+## Olá! Eu sou o João Miguel 🖐️
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-miguel-fortunato-rita-623962219/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mih.jaow)
